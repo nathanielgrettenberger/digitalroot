@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\digitalroot\digitalroot\bin\Debug\digitalroot.exe.config
+C:\Users\Technologist\Documents\GitHub\digitalroot\digitalroot\bin\Debug\digitalroot.exe
+C:\Users\Technologist\Documents\GitHub\digitalroot\digitalroot\bin\Debug\digitalroot.pdb
+C:\Users\Technologist\Documents\GitHub\digitalroot\digitalroot\obj\Debug\digitalroot.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\digitalroot\digitalroot\obj\Debug\digitalroot.exe
+C:\Users\Technologist\Documents\GitHub\digitalroot\digitalroot\obj\Debug\digitalroot.pdb
